@@ -1,4 +1,4 @@
-# docker_lnmprs
+# docker_lnmprs是什么
 一款基于宝塔打造的lnmp+redis_swoole快速开发环境的docker镜像
 - [镜像地址](https://hub.docker.com/repository/docker/dockerbyman/lnmprs)
 # 你想
@@ -6,7 +6,7 @@
 - 统一的开发环境
 - 和线上环境隔离
 - 本地开发环境
-# latest
+# 默认（latest）版本包含
 基于centos7.8搭建的php高并发开发快速部署镜像
 - centos
 - npm(taobao)+yarn+yum(update)+wget
@@ -15,7 +15,7 @@
 - lnmp
 - bt
 
-# 使用
+# 我怎么用
 > docker请自行安装
 ## 拉取镜像并启动容器
 - ### 端口+文件映射用法（快速开发用建议使用）
